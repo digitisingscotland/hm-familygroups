@@ -1,7 +1,7 @@
 
 This repository holds the supplementary data files for the following paper.
 
-Title: Linking Vital Event Records Using Family Groups
+Title: Linking Scottish Vital Event Records Using Family Groups
 
 Authors: Özgür Akgün<sup>1</sup>, Alan Dearle<sup>1</sup>, Graham Kirby<sup>1</sup>, Eilidh Garrett<sup>2</sup>, Tom Dalton<sup>1</sup>, Peter Christen<sup>3</sup>, Chris Dibben<sup>4</sup>, Lee Williamson<sup>4</sup>
 
