@@ -1,5 +1,5 @@
 
-This repository holds the supplementary data files for the following paper.
+This repository holds the supplementary data files and source code for the following paper.
 
 Title: Linking Scottish Vital Event Records Using Family Groups
 
